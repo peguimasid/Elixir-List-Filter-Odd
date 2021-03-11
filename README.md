@@ -1,21 +1,37 @@
-# ListFilter
+<h1 align="center">Welcome List Filter Odd with Elixir👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-**TODO: Add description**
+> 🪴 In this project i complete the challenge proposed by the Rocketseat team to, given a list of strings that represents numbers, or not, return how many odd numbers that list contains
 
-## Installation
+## Install
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `list_filter` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:list_filter, "~> 0.1.0"}
-  ]
-end
+```sh
+git clone https://github.com/peguimasid/Elixir-List-Filter-Odd
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/list_filter](https://hexdocs.pm/list_filter).
+## Usage
+- Instalar o [Elixir](https://elixir-lang.org/install.html)
+- Rodar: `iex -S mix`
+- Chamar a função como no exemplo: `ListLength.call(["1", "3", "6", "43", "banana", "6", "abc"])`
 
+## Test
+```Elixir
+mix test
+```
+
+## Author
+
+👤 **Guilhermo Masid**
+
+* Github: [@peguimasid](https://github.com/peguimasid)
+* LinkedIn: [@Guilhermo Masid](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
